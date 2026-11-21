@@ -10,7 +10,7 @@ Looking for an **applied AI/ML internship**.
 
 #### 🔭 Featured project
 
-**[Roameo](https://github.com/TinyZhen/Travel_Agent)**: a multi-agent LLM travel planner (FastAPI + React, Docker) · **[▶ Live demo](https://roameo-l13h.onrender.com/)**
+**[Roameo](https://github.com/zhenlu-ml/Travel_Agent)**: a multi-agent LLM travel planner (FastAPI + React, Docker) · **[▶ Live demo](https://roameo-l13h.onrender.com/)**
 - 7 agents (intake, research, composer, critic, feedback, guide, orchestrator). The LLM handles language and tool choice, and budget math stays deterministic.
 - Bounded tool-calling loop over flight, hotel, event, attraction and weather tools; a critic-driven repair loop; human approval before anything is exported.
 - Scenario-based eval harness: 23/23 core scenarios pass in LLM mode. Runs in demo mode with no API keys.
