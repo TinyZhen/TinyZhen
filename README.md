@@ -4,13 +4,13 @@ CS Ph.D. student at **UMass Boston** working on machine learning: Transformers, 
 
 Looking for an **applied AI/ML internship**.
 
-[Google Scholar](https://scholar.google.com/citations?user=Xb1-aUUAAAAJ) · [Website](https://www.tinybaozi.com/)
+[CV (PDF)](https://www.tinybaozi.com/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/zhen-lu-b12026127/) · [Google Scholar](https://scholar.google.com/citations?user=Xb1-aUUAAAAJ) · [Website](https://www.tinybaozi.com/) · [Email](mailto:cnzhenlu@gmail.com)
 
 ---
 
 #### 🔭 Featured project
 
-**[Roameo](https://github.com/TinyZhen/Travel_Agent)**: a multi-agent LLM travel planner (FastAPI + React, Docker)
+**[Roameo](https://github.com/TinyZhen/Travel_Agent)**: a multi-agent LLM travel planner (FastAPI + React, Docker) · **[▶ Live demo](https://roameo-l13h.onrender.com/)**
 - 7 agents (intake, research, composer, critic, feedback, guide, orchestrator). The LLM handles language and tool choice, and budget math stays deterministic.
 - Bounded tool-calling loop over flight, hotel, event, attraction and weather tools; a critic-driven repair loop; human approval before anything is exported.
 - Scenario-based eval harness: 23/23 core scenarios pass in LLM mode. Runs in demo mode with no API keys.
